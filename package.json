@@ -1,0 +1,28 @@
+{
+  "name": "safely-parse-json",
+  "version": "0.1.0",
+  "description": "Safely parse json",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshendra/safely-parse-json.git"
+  },
+  "keywords": [
+    "node",
+    "json",
+    "js"
+  ],
+  "author": "Akshendra Pratap Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshendra/safely-parse-json/issues"
+  },
+  "homepage": "https://github.com/akshendra/safely-parse-json#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
